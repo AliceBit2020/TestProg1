@@ -540,7 +540,7 @@ multimap<string, string> imenas;
 int main()
 {
 
-    SetConsoleCP(1251);
+   /* SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
 
     imenas.insert(pair<string, string>("cake", "кекс"));
@@ -562,9 +562,9 @@ int main()
         cout << "Переклад слова \"imena\": " << i->second << endl;
 
         cout << "Переклад слова \"cake\": " << m->second << endl;
-    }
+    }*/
 
-
+    cout << "main" << endl;
 
 
     return 0;
