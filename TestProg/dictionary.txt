@@ -1,0 +1,3 @@
+clean test test2 |
+dig test test2 test3 test4 |
+carry test test2 test3 |
