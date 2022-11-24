@@ -4,7 +4,15 @@
   
 using namespace std;
 
-
+class Test
+{
+    int a;
+public: 
+    Test()
+    {
+        a = 0;
+    }
+};
 int main()
 {
 
