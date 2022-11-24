@@ -4,7 +4,10 @@
   
 using namespace std;
 
-
+void Test()
+{
+    cout << "Test func";
+}
 int main()
 {
 
