@@ -17,6 +17,19 @@ void Test()
 {
     cout << "Test func";
 }
+
+class Test2 {
+
+    double a;
+public:
+    Test2()
+    {
+        a = 0;
+    }
+
+
+};
+
 int main()
 {
 
