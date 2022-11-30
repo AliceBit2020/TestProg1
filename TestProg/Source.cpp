@@ -36,7 +36,7 @@ int main()
   
 
     cout << "main" << endl;
-    cout << "Br1" << endl;
+    cout << "MyBr1" << endl;
 
     return 0;
 }
