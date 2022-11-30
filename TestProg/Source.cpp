@@ -17,13 +17,18 @@ void Test()
 {
     cout << "Test func";
 }
+int Sum(int a, int b)
+{
+    return a + b;
+}
+
 int main()
 {
 
   
 
     cout << "main" << endl;
-    cout << "Br1" << endl;
+  
 
     return 0;
 }
